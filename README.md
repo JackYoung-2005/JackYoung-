@@ -1,4 +1,4 @@
-# 🚀 Web / Mini-Program Reverse Engineering Practice
+# 🚀 Web 与小程序逆向工程实战练习
 
 [![Build Status](https://img.shields.io/badge/Status-Active%20Learning-orange.svg)]() 
 [![Language](https://img.shields.io/badge/Language-JavaScript%20%7C%20Python-blue.svg)]()
@@ -28,7 +28,7 @@
 | **美团 (Meituan)** | `mtgsig` 请求签名 | H5guard 签名机制追踪、API 请求头特征识别与环境 Mock |
 | **京东 (JD)** | `h5st` 签名分析 | 核心魔改加密算法解析、滑块验证码行为轨迹风控对抗 |
 | **拼多多 (PDD)** | `anti-content` 参数 | 风控打点数据还原、高强度代码逻辑混淆深度剥离 |
-| **小红书 (XHS)** | `x-s` / `x-t` 动态签名 | 请求头动态签名生成、设备指纹及账号风控策略链路拆解 |
+| **小红书 (XHS)** | `x-s`  动态签名 | 请求头动态签名生成、设备指纹及账号风控策略链路拆解 |
 | **同程旅行** | `user-dun` 请求头 | 登录态全生命周期校验、网络请求流反爬特征安全追踪 |
 
 ---
@@ -38,7 +38,13 @@
 技术无止境，闭门造车不如并肩前行！我非常渴望与志同道合的朋友们进行技术交流：
 * **交流内容**：欢迎探讨各大平台最新的反爬策略、补环境心得、AST 插件编写、小程序混淆对抗等前沿技术。
 * **参与方式**：如果你对项目中的某个课题有更好的解法，或者发现了 Bug，欢迎直接提交 **Issue** 或发起 **Pull Request**！
-* 欢迎在 GitHub 互相 Follow，一起钻研逆向技术，共同进步！
+
+### 💬 联系我（欢迎勾搭与技术探讨）
+> 📌 添加时请备注来意
+
+* **QQ**：`1457962179`
+* **微信 (WeChat)**：`jxkj666_`
+* **闲鱼 (XianYu)**：搜索用户 `杰猩科技`
 
 ---
 
