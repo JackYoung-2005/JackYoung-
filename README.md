@@ -1,4 +1,4 @@
-# 🚀 Web / App / Mini-Program Reverse Engineering Practice
+# 🚀 Web / Mini-Program Reverse Engineering Practice
 
 [![Build Status](https://img.shields.io/badge/Status-Active%20Learning-orange.svg)]() 
 [![Language](https://img.shields.io/badge/Language-JavaScript%20%7C%20Python-blue.svg)]()
